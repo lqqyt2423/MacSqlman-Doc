@@ -14,6 +14,8 @@ App Store 的链接是：[Sqlman Mac App Store](https://apps.apple.com/cn/app/sq
 
 <img src="./resources/wx.jpg" width="220px" alt="联系我" />
 
+后续软件更新，也会在此仓库发布一些更新记录，如有需要可以点击关注此仓库。
+
 ### 一些界面的截图
 
 ![desc1](./resources/desc1.png)
