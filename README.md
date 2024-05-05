@@ -27,3 +27,21 @@ App Store 的链接是：[Sqlman Mac App Store](https://apps.apple.com/cn/app/sq
 ![desc4](./resources/desc4.png)
 
 ![desc5](./resources/desc5.png)
+
+### 更新记录
+
+#### 2024-05-05 v1.0.4
+
+重启软件会保留历史查询记录
+增加底部状态栏
+添加导出为 JSON 和导出为 CSV 功能
+添加上下翻页功能
+国际化支持英语
+
+#### 2024-04-28 v1.0.3
+
+新增 App 内购买项目、数据查询体验优化
+
+#### 2024-04-25 v1.0.2
+
+优化应用图标、新增应用内授权付费项
