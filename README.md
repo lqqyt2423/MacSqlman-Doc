@@ -1,8 +1,8 @@
 # Sqlman 介绍
 
-Sqlman 是 MacOS 平台一款 MySQL GUI 数据库管理工具。
+Sqlman 是 MacOS 平台一款 MySQL 和 SQLite GUI 数据库管理工具。
 
-Sqlman 是新一代的、简洁优雅的 MySQL GUI。专注于快速查询。原生开发，安装包小，响应迅速。
+Sqlman 是新一代的、简洁优雅的 MySQL SQLite GUI。专注于快速查询。原生开发，安装包小，响应迅速。
 
 已经上线 App Store。技术是 Swiftui 和 webview 组合。安装包很小，下载大小目前只有 5M 不到。
 
@@ -29,6 +29,22 @@ App Store 的链接是：[Sqlman Mac App Store](https://apps.apple.com/cn/app/sq
 ![desc5](./resources/desc5.png)
 
 ### 更新记录
+
+#### 2024-11-22 v1.1.0
+
+##### 中文
+
+1. 大更新：支持 SQLite 数据库。
+2. 体验优化：极大降低付费弹窗频率。
+3. 查询界面新增执行按钮。
+4. 连接管理支持调整顺序。
+
+##### English
+
+1. Major Update: Added support for SQLite databases.
+2. Experience Optimization: Significantly reduced the frequency of subscription pop-ups.
+3. Added Apply button to the query interface.
+4. Connection management now supports reordering.
 
 #### 2024-09-30 v1.0.5
 
