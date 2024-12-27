@@ -30,6 +30,26 @@ App Store 的链接是：[Sqlman Mac App Store](https://apps.apple.com/cn/app/sq
 
 ### 更新记录
 
+#### 2024-12-27 v1.1.1
+
+##### 中文
+
+1. 修复 SQL 查询页面视图错乱的问题
+2. 添加手动刷新数据表功能
+3. 执行新建/删除表结构 SQL 后自动刷新数据表列表
+4. 数据表结构 SQL 一键美化
+5. 查询界面上下翻页按钮优化
+6. 连接管理界面交互优化
+
+##### English
+
+1. Fixed the issue of view disorder on the SQL query page.
+2. Added a manual refresh feature for data tables.
+3. Automatically refresh the data table list after executing SQL for creating/deleting table structures.
+4. One-click beautification for table structure SQL.
+5. Improved pagination buttons on the query interface.
+6. Enhanced interaction design on the connection management interface.
+
 #### 2024-11-22 v1.1.0
 
 ##### 中文
