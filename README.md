@@ -30,6 +30,22 @@ App Store 的链接是：[Sqlman Mac App Store](https://apps.apple.com/cn/app/sq
 
 ### 更新记录
 
+###
+
+#### 2025-07-24 v1.1.3
+
+##### 中文
+
+1. 添加数据库状态信息展示
+2. 添加编辑行功能
+3. 升级底层依赖
+
+##### English
+
+1. Added database status display
+2. Added row editing feature
+3. Upgraded underlying dependencies
+
 #### 2024-12-27 v1.1.1
 
 ##### 中文
